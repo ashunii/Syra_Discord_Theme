@@ -32,7 +32,7 @@ button {
 }
 
 body {
-	background: #000 !important; /* fundo liso sem imagem */
+	background: #000 !important;
 	font-family: 'Share Tech Mono', monospace !important;
 	color: white !important;
 }
@@ -58,7 +58,6 @@ body {
 	transform: scale(0.95);
 }
 
-/* animação suave ao arrastar mensagens */
 .scrollerBase-289Jih {
     scroll-behavior: smooth !important;
     transition: margin 0.15s ease-out, padding 0.15s ease-out;
