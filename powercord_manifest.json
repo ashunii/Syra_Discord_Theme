@@ -1,0 +1,9 @@
+{
+    "name": "Syra",
+    "description": "A dark theme",
+    "version": "0.3",
+    "author": "Lyorety",
+    "theme": "Syra.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
